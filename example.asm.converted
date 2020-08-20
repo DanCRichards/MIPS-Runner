@@ -1,0 +1,2 @@
+mipsInst.assembler.addInstruction('LABEL:')
+mipsInst.assembler.addInstruction('    addi $t0, $t0, 123')

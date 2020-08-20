@@ -1,5 +1,6 @@
-# MIPSRunner
-For converting your MIPS32 to UoA Coderunner capable code. 
+![TitleImage](MIPS-Runner.png)
+
+For converting your MIPS32 assembly to UoA Coderunner capable code. 
 
 ## Instructions
 

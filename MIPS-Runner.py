@@ -39,7 +39,7 @@ for line in f.readlines():
         if line.strip() == "":
             continue
 
-        o.write("mipsInst.assembler.addInstruction('" + line.replace("\n","") + "')\n")
+        o.write('mipsInst.assembler.addInstruction("' + line.replace("\n","") + '")\n')
     except:
         print("Beep Boop error occured with line:")
         print(line)
